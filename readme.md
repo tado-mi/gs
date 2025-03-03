@@ -1,23 +1,30 @@
 # Read me
 
-## Q1
+## Q1 & Q2 
 
 * how to run:
 
 ```
 # prereqs:
 pip install xarray netCDF4
+pip install mathplotlib
 
 # filepath defaults to waves_2019-01-01.nc
 python gs_sol.py <filepath.nc>
 
 ```
 
-* (chat gpt contribution](https://chatgpt.com/share/67c2a4d9-63dc-8013-b760-e2606dd5df47)
+* output:
+```            
+q1:
+the highest wave height at coordinates (0.0, 0.0) is 2.3259894847869873.
 
-## Q2
+q2:
+loading ui...
+```
 
-[pending]
+* chat gpt contribution on [Q1](https://chatgpt.com/share/67c2a4d9-63dc-8013-b760-e2606dd5df47) and on [Q2](https://chatgpt.com/share/67c53fef-c618-8013-be90-e4e42d092959)
+
 
 ## Q3
 
